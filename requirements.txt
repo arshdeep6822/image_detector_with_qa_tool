@@ -6,3 +6,4 @@ timm>=0.9.2
 tabulate>=0.9.0
 python-dotenv
 ddgs
+pydantic<2.0
